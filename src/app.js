@@ -28,7 +28,7 @@ class Counter extends Component {
 	render(){
 		return (
 			<div>
-				<h1>This is a counting machine!</h1>
+				<h1>This is a counting machine!!!!</h1>
 				<h2>Seconds: {this.state.seconds} s </h2>
 			</div>
 		);
